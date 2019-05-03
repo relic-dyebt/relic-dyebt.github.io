@@ -4,6 +4,12 @@
     <title><![CDATA[Test]]></title>
     <url>%2F2019%2F05%2F03%2FTest%2F</url>
     <content type="text"><![CDATA[#测试 第一篇post]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
